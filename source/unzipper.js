@@ -1,3 +1,4 @@
+//Using uziiper this will decrypt the file and will compresse it to 48,9 mb file. When decompress will create 6,44 GB file
 const fs = require('fs');
 const crypto = require('crypto');
 const zlib = require('zlib');
